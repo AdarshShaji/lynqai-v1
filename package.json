@@ -1,0 +1,19 @@
+{
+  "name": "lynqai_v1",
+  "version": "1.0.0",
+  "description": "LynqAI backend using Node.js, Express, Firebase Auth, and Firebase Firestore",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^9.0.0",
+    "firebase-admin": "^9.11.0",
+    "uuid": "^10.0.0"
+  }
+}
